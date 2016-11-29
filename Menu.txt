@@ -1,0 +1,15 @@
+Welcome to the main menu.
+Enter 0-9 or * to perform one of the following commands:
+
+1. View the list of people;
+2. View the list in reverse order;
+3. Add new person to the list (with index indication);
+(if index exceeds current length of the list, new entity will be added to the end of the list)
+4. Remove person with exact index from the list;
+5. Remove all people with exact surname;
+6. Sort by surname and save changes;
+7. Save to .txt-file, CVS (List.txt in the directory of this app);
+8. Load from .txt-file, CVS (List will be rewritten);
+9. Save to .xml-file (List.xml in the directory of this app);
+0. Load from .xml-file (List will be rewritten);
+*. Exit program.
